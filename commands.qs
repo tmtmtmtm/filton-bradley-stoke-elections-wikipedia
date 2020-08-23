@@ -17,12 +17,7 @@ LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q25052149	P768	Q3138317	P102	Q9669	P1111	1162	P1352	4	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
 LAST	P3602	Q3586935	P768	Q3138317	P102	Q9669	P1111	2257	P1352	5	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Elaine Hardwick"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3138317	P102	Q75335101	P1111	257	P1352	5	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
+Q75996273	P3602	Q30173038	P768	Q3138317	P102	Q75335101	P1111	257	P1352	5	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Eva Fielding"
@@ -61,12 +56,7 @@ LAST	Len	"Naomi Rylatt"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q25052149	P768	Q3138317	P102	Q9630	P1111	21149	P1352	2	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"None of the Above Zero"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q215622	P768	Q3138317	P1111	172	P1352	8	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
+Q3518909	P3602	Q215622	P768	Q3138317	P1111	172	P1352	8	S4656	"https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Pete Bruce"
