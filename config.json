@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Filton_and_Bradley_Stoke_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q3138317",
+    "start": "2010",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
