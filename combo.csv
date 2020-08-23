@@ -1,0 +1,23 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q695257,Jack Lopresti,Q9626,Conservative Party (UK),26293,Q30173038,General election 2019,1
+Q76363360,,Mhairi Threlfall,Q9630,Labour Party (UK),20647,Q30173038,General election 2019,2
+,Q6688641,Louise Harris,Q9624,Liberal Democrats (UK),4992,Q30173038,General election 2019,3
+Q75975578,,Jenny Vernon,Q9669,Green Party of England and Wales,1563,Q30173038,General election 2019,4
+,,Elaine Hardwick,Q75335101,Citizens Movement Party UK,257,Q30173038,General election 2019,5
+,Q695257,Jack Lopresti,Q9626,Conservative Party (UK),25339,Q25052149,General election 2017,1
+,,Naomi Rylatt,Q9630,Labour Party (UK),21149,Q25052149,General election 2017,2
+,,Eva Fielding,Q9624,Liberal Democrats (UK),3052,Q25052149,General election 2017,3
+,,Diana Warner,Q9669,Green Party of England and Wales,1162,Q25052149,General election 2017,4
+,Q695257,Jack Lopresti,Q9626,Conservative Party (UK),22920,Q3586935,General election 2015,1
+,,Ian Boulton,Q9630,Labour Party (UK),13082,Q3586935,General election 2015,2
+,,Ben Walker,Q10647,UK Independence Party,7261,Q3586935,General election 2015,3
+,,Pete Bruce,Q9624,Liberal Democrats (UK),3581,Q3586935,General election 2015,4
+,,Diana Warner,Q9669,Green Party of England and Wales,2257,Q3586935,General election 2015,5
+,Q695257,Jack Lopresti,Q9626,Conservative Party (UK),19686,Q215622,General election 2010,1
+,,Ian Boulton,Q9630,Labour Party (UK),12772,Q215622,General election 2010,2
+Q98521804,,Peter Tyzack,Q9624,Liberal Democrats (UK),12197,Q215622,General election 2010,3
+,,John Knight,Q10647,UK Independence Party,1506,Q215622,General election 2010,4
+,,David Scott,Q161269,British National Party,1328,Q215622,General election 2010,5
+,,Jon Lucas,Q9669,Green Party of England and Wales,441,Q215622,General election 2010,6
+Q75975299,,Ruth Johnson,Q3402978,Christian Party (UK),199,Q215622,General election 2010,7
+,,None of the Above Zero,,No label,172,Q215622,General election 2010,8
